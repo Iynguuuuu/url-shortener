@@ -193,13 +193,6 @@ Once all three are up, your short links are live on the internet — put the lin
 
 ---
 
-## For your CV
-
-> **Shortly — Full-stack URL shortener with CI/CD** · React, Tailwind, Spring Boot, MongoDB, Docker, GitHub Actions
-> Built a URL shortener with click analytics. Containerized both services with multi-stage Docker builds and set up a GitHub Actions pipeline that runs backend (JUnit) and frontend (Vitest) tests, then builds and publishes images to the container registry. Deployed to the cloud with a managed MongoDB.
-
----
-
 ## Project structure
 
 ```
